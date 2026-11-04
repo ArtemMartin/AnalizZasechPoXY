@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AnalizZasechPoXY:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnalizZasechPoXY_jar</output-path>
+    <root id="archive" name="AnalizZasechPoXY.jar">
+      <element id="module-output" name="AnalizZasechPoXY" />
+    </root>
+  </artifact>
+</component>

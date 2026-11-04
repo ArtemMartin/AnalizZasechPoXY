@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+<Style id='bluePoint'>
+<IconStyle>
+<color>FF0000FF</color>
+ <scale>1.2</scale> 
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<color>FFFFFFFF</color>
+<scale>0.8</scale>
+</LabelStyle>
+</Style>    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 2</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.78685729689949,48.80149638845487,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 2</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.77534165567767,48.80984559241859,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 2</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.77937263068579,48.806444202641536,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 2</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.78763643607308,48.80475091312131,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 2</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.83069452269346,48.82942182247548,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.7639746906989,48.82638746931991,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 2</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.71969821694923,48.82795437860901,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 2</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.78836597109444,48.811197274146615,0</coordinates>
+ </Point>
+  </Placemark>
+ </Document>
+</kml>
