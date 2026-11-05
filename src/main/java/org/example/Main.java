@@ -24,15 +24,23 @@ public class Main {
             radysGrypirov = scanner.nextInt();
             scanner.nextLine();
             List<Double[]> list = new ArrayList<>();
-            try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
-                String line;
-                String[] mas;
-                while ((line = reader.readLine()) != null) {
-                    mas = line.split("[^A-Za-z0-9]+");
-                    list.add(new Double[]{Double.parseDouble(mas[0]), Double.parseDouble(mas[1])});
+            System.out.println("Файл забит в ручную в формате Х У - 1, скопированные сообщения из чата - 0: ");
+            vvod = scanner.nextInt();
+            scanner.nextLine();
+            if (vvod == 1) {
+                try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
+                    String line;
+                    String[] mas;
+                    while ((line = reader.readLine()) != null) {
+                        mas = line.split("[^A-Za-z0-9]+");
+                        list.add(new Double[]{Double.parseDouble(mas[0]), Double.parseDouble(mas[1])});
+                    }
+                } catch (Exception e) {
+                    Logger.getLogger(Main.class.getName()).info("Шляпа: при чтении файла!!!");
                 }
-            } catch (Exception e) {
-                Logger.getLogger(Main.class.getName()).info("Шляпа: при чтении файла!!!");
+            } else {
+                Zasechka zasechka = new Zasechka();
+                list = zasechka.getXY();
             }
             //выводим список районов
             zasechekList = getListArea(list, radysGrypirov);
@@ -76,7 +84,7 @@ public class Main {
             }
             if (!listPromeg.isEmpty()) {
                 listPromeg.add(new Double[]{x, y});
-                list.add(getYsrZnach(listPromeg));
+                if (listPromeg.size() >= 3) list.add(getYsrZnach(listPromeg));
                 listPromeg.clear();
             }
         }

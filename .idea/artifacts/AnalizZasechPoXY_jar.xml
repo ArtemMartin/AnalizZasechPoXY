@@ -1,8 +1,9 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="AnalizZasechPoXY:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/AnalizZasechPoXY_jar</output-path>
+    <output-path>$PROJECT_DIR$</output-path>
     <root id="archive" name="AnalizZasechPoXY.jar">
       <element id="module-output" name="AnalizZasechPoXY" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/osgeo/proj4j/0.1.0/proj4j-0.1.0.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

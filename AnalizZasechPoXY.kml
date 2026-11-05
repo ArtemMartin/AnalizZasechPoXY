@@ -15,47 +15,11 @@
 </LabelStyle>
 </Style>    <Placemark>
 <name>(Район засечек)</name>
-<description>к-во засечек 2</description>
+<description>к-во засечек 3</description>
 <styleUrl>#bluePoint</styleUrl>
       <Point>
         <extrude>1</extrude>
-<coordinates>37.78685729689949,48.80149638845487,0</coordinates>
- </Point>
-  </Placemark>
-    <Placemark>
-<name>(Район засечек)</name>
-<description>к-во засечек 2</description>
-<styleUrl>#bluePoint</styleUrl>
-      <Point>
-        <extrude>1</extrude>
-<coordinates>37.77534165567767,48.80984559241859,0</coordinates>
- </Point>
-  </Placemark>
-    <Placemark>
-<name>(Район засечек)</name>
-<description>к-во засечек 2</description>
-<styleUrl>#bluePoint</styleUrl>
-      <Point>
-        <extrude>1</extrude>
-<coordinates>37.77937263068579,48.806444202641536,0</coordinates>
- </Point>
-  </Placemark>
-    <Placemark>
-<name>(Район засечек)</name>
-<description>к-во засечек 2</description>
-<styleUrl>#bluePoint</styleUrl>
-      <Point>
-        <extrude>1</extrude>
-<coordinates>37.78763643607308,48.80475091312131,0</coordinates>
- </Point>
-  </Placemark>
-    <Placemark>
-<name>(Район засечек)</name>
-<description>к-во засечек 2</description>
-<styleUrl>#bluePoint</styleUrl>
-      <Point>
-        <extrude>1</extrude>
-<coordinates>37.83069452269346,48.82942182247548,0</coordinates>
+<coordinates>37.73920175369055,48.799743820010846,0</coordinates>
  </Point>
   </Placemark>
     <Placemark>
@@ -64,25 +28,385 @@
 <styleUrl>#bluePoint</styleUrl>
       <Point>
         <extrude>1</extrude>
-<coordinates>37.7639746906989,48.82638746931991,0</coordinates>
+<coordinates>37.65609455775116,48.782545742188994,0</coordinates>
  </Point>
   </Placemark>
     <Placemark>
 <name>(Район засечек)</name>
-<description>к-во засечек 2</description>
+<description>к-во засечек 3</description>
 <styleUrl>#bluePoint</styleUrl>
       <Point>
         <extrude>1</extrude>
-<coordinates>37.71969821694923,48.82795437860901,0</coordinates>
+<coordinates>37.59741180327802,48.82520898866805,0</coordinates>
  </Point>
   </Placemark>
     <Placemark>
 <name>(Район засечек)</name>
-<description>к-во засечек 2</description>
+<description>к-во засечек 3</description>
 <styleUrl>#bluePoint</styleUrl>
       <Point>
         <extrude>1</extrude>
-<coordinates>37.78836597109444,48.811197274146615,0</coordinates>
+<coordinates>37.61554949847831,48.76945789821436,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.637123119642744,48.824309609343366,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.63615175114617,48.82045826427883,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.6078872802526,48.813825422568954,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 7</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.5837296020987,48.81728997542781,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 5</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.66717367261411,48.83894133726631,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.610918978696105,48.70156969045683,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.73920588297914,48.7914346834967,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 5</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.61896369892947,48.71986787128649,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.70952342995089,48.85130250221226,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.74863965430905,48.86134685047249,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.6798506930938,48.8313985857501,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.68764278810029,48.81415883555234,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.637530365920476,48.85448461133389,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 4</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.683607370707584,48.77898753442733,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.6166463025954,48.80775295220063,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.61055245554436,48.76665495974226,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.6450731802736,48.88047209977169,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.630147649851885,48.74492937263756,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 5</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.647699592464456,48.83362465983404,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.65579008573024,48.840778501771645,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 4</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.661842426234216,48.839625943152505,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.72681583113372,48.90498223435159,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.666798508978815,48.78839842958289,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.61490140167525,48.82710215414713,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.59941455613519,48.656906712644464,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.64970111771445,48.72107763699618,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.569281493772266,48.69569123992905,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.63994096661825,48.76143916250944,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 4</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.827994514136606,48.81496136516947,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.616147124480854,48.82242296405627,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.68312607615587,48.80413448431956,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.63006516639423,48.745962557606575,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.699105587603945,48.71579193549386,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.71711956989209,48.897959530174106,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 5</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.70315445734156,48.90686769351779,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 5</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.61589962116211,48.72949833475322,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.69279319124475,48.887803494667324,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 4</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.64093235216688,48.77308742780669,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 3</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.62260000893764,48.67479442897506,0</coordinates>
+ </Point>
+  </Placemark>
+    <Placemark>
+<name>(Район засечек)</name>
+<description>к-во засечек 4</description>
+<styleUrl>#bluePoint</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+<coordinates>37.58011596273408,48.78661640943588,0</coordinates>
  </Point>
   </Placemark>
  </Document>
